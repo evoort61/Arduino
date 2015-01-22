@@ -1,3 +1,4 @@
 # Arduino
 Arduino projects
-More details: http:/yeaahcode.blogspot.com/
+
+More details: http://yeaahcode.blogspot.com/
